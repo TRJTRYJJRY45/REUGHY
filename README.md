@@ -15,6 +15,7 @@
 ## 小说项目设定
 
 - [五代十国小说设定圣经](resources/five-dynasties-setting-bible.md)：包含时间线、势力表、关键人物、黄龙岛开局、主角可用知识、禁用金手指和前三卷大方向。
+- [历史偏离与人物反应规则](resources/historical-divergence-rules.md)：规定主角介入后如何合理改史，确保后续变动符合历史人物性格、利益和时代逻辑。
 
 ## 使用提醒
 
