@@ -16,6 +16,7 @@
 
 - [五代十国小说设定圣经](resources/five-dynasties-setting-bible.md)：包含时间线、势力表、关键人物、黄龙岛开局、主角可用知识、禁用金手指和前三卷大方向。
 - [历史偏离与人物反应规则](resources/historical-divergence-rules.md)：规定主角介入后如何合理改史，确保后续变动符合历史人物性格、利益和时代逻辑。
+- [黄龙海盟与女海盗设定](resources/huanglong-sea-alliance.md)：修订第一卷黄龙岛开局，确立女海盗岑照潮、黄龙海盟、主角自建政治体系和群众力量路线。
 
 ## 使用提醒
 
